@@ -3,7 +3,7 @@
 # 1) Start with local scope
 # 2) Get scope of parent functions
 # 3) Get global scope
-
+# 4) Get built-in variables/functions
 a = 1
 
 def parent():
