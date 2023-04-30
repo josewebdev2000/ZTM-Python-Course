@@ -12,15 +12,14 @@ def main():
         "valid": False
     }
 
-    message_friends(user1)
-    message_friends(user2)
+    message_friends(user1) # This one will run
+    message_friends(user2) # This one will not run
 
 def authenticated(fn):
     # code here
     def wrapper_func(user):
         if user["valid"]:
             fn(user)
-    
     return wrapper_func
 
 @authenticated
