@@ -15,6 +15,5 @@ while True:
     
     else:
         print("Thank you")
-        break
     finally:
         print("Ok, I'm finally done")
