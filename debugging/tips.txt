@@ -3,3 +3,16 @@
 # Linting
 # IDE / Editor
 # Read Errors
+# pdb module
+
+# pdb commands
+# pdb.set_trace() Start pdb terminal from this point onward
+# help -> Get commands to use
+# list -> Check out all the code
+# next -> Run next line of code
+# continue -> Continue Execution until next breakpoint
+# a -> Check arguments at runtime
+# w -> Check current environment
+# q -> Exit the debugger
+# p (expression) -> Print value of an expression
+
