@@ -2,7 +2,7 @@ import re
 
 def main() -> None:
     
-    pattern = re.compile("this")
+    pattern = re.compile(r"([a-zA-Z]).(a)")
     sentence = "Search inside of this text please!"
     
     a = pattern.search(sentence)
