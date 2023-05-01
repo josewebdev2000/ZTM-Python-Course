@@ -2,3 +2,6 @@ notes.txt
 jupyter-notebook-installation/.ipynb_checkpoints
 modules/pip_venvs
 exercises/translator/translator_venv
+scripting/scripting_venv
+scripting/pokemon_pics
+exercises/jpg2png/png_pics

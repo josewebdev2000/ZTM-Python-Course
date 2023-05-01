@@ -1,0 +1,5 @@
+Make a Python Program that takes a folder of jpg files
+Then it converts them to png files and saves them into a new folder that does not exist yet
+
+All the images used in this exercise come from https://unsplash.com
+They are all free
