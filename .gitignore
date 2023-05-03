@@ -8,3 +8,5 @@ exercises/jpg2png/png_pics
 projects/password-security-checker/password-venv
 projects/SMS_sending/sms_venv
 projects/SMS_sending/.API_Keys
+projects/web_scrapping/web_venv
+scripting/web_scrapping/web_venv
