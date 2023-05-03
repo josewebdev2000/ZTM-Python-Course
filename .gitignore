@@ -6,3 +6,5 @@ scripting/scripting_venv
 scripting/pokemon_pics
 exercises/jpg2png/png_pics
 projects/password-security-checker/password-venv
+projects/SMS_sending/sms_venv
+projects/SMS_sending/.API_Keys
